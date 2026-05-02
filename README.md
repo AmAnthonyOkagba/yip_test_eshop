@@ -57,3 +57,10 @@ php artisan db:seed --class=ProductSeeder
 # Start server
 php artisan serve
 ```
+
+Visit: `http://localhost:8000`
+
+### Test Accounts
+**Admin:**
+- Email: `admin@example.com`
+- Password: `Password123!`
